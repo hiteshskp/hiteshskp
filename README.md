@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @hiteshskp
-- 👀 I’m interested in everything that is easy to use
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on collab and kaggle
-- 📫 How to reach me contact on any platform through username=hiteshskp 
+## 👋 Hi, I’m Hitesh (@hiteshskp)
 
-<!---
-hiteshskp/hiteshskp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like building things that *feel* simple —  
+even if they took hours of untangling complex ideas, mild confusion, and one existential crisis behind the scenes.
+
+> **Making things simpler by spending hours recollecting complex things**
+
+---
+
+### 👀 What I’m into
+- Clean, intuitive systems *(that’s a lie, but I try)*  
+- Data → insight → decisions  
+- Products that don’t make users think too hard (thinking is overrated)
+
+### 🌱 Currently learning
+- Turning messy data into usable narratives  
+- Explaining complicated stuff without sounding complicated (still failing sometimes)
+
+### 💞️ Looking to collaborate on
+- Open-source projects  
+- Anything where learning > ego (and PRs > meetings)
+
+### 📫 Reach me
+You can find me almost anywhere using the username:  
+**`hiteshskp`**
+
+---
+
+_If it feels easy to use, someone probably suffered for it.  
+That someone is me. You’re welcome._
