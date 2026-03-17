@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m HitesH (@hiteshskp)
 
-I like building things that *feel* simple —  
+I like building things that *feel* simple  
 even if they took hours of untangling complex ideas, mild confusion, and one existential crisis behind the scenes.
 
  **Making things simpler by spending hours recollecting complex things**
